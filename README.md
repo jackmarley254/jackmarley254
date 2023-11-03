@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning learning software Engineering at ALX Afrika.
 - 💞️ I’m looking forward to collaborate on projects. 
 - 📫 You can reach me on,
-- Email:jackndiritu97@gmail.com.
+- Email:jackndiritu97@gmail.com
 - Telegram:https://t.me/marley265
   
 
