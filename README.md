@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jackson Ndiritu
-- 👀 I’m interested in Software development and IOT.
+- 👀 I’m interested in Python, Django, React and ExpressJs.
 - 🌱 I’m currently learning learning software Engineering at ALX Afrika.
 - 💞️ I’m looking forward to collaborate on projects. 
 - 📫 You can reach me on,
