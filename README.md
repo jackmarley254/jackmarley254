@@ -5,6 +5,7 @@
 - 📫 You can reach me on,
 - Email:jackndiritu97@gmail.com
 - Telegram:https://t.me/marley265
+- LinkedIn:www.linkedin.com/in/jackson-gitahi
   
 
 <!---
