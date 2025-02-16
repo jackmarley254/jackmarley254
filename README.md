@@ -1,10 +1,10 @@
 👋 Hi there! I’m Jackson Ndiritu
 
-💻 ALX Africa Graduate | Full-Stack Developer
+💻 Aspiring Developer
 
 🌟 Passionate about building impactful solutions with Python, JavaScript, React, and Ruby.
 
-🚀 Always Learning: The journey doesn’t stop at graduation! I’m continuously honing my skills in cutting-edge technologies.
+🚀 Always Learning: I’m continuously honing my skills in cutting-edge technologies.
 
 🤝 Open to Collaboration: Excited to work on innovative projects, solve complex problems, and grow alongside like-minded developers.
 
